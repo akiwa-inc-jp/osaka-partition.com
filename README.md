@@ -1,0 +1,1 @@
+# osaka-partition.com
