@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* for IE7 */
+
+*:first-child+html #header h1 {
+	height: 24px;
+}
+

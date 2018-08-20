@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* for lt_IE8 */
+
+#header h1,
+#wrap_nav p,
+.topicpath,
+#nav_foot li,
+#footer h2,
+address {
+	font-size: 10px\9;
+	font-family: Meiryo, "メイリオ", "Hiragino Kaku Gothic Pro W3", "ヒラギノ角ゴ Pro W3", Osaka, "MS P Gothic", "MS P Gothic", "ＭＳ Ｐゴシック", sans-serif\9;
+}
+
